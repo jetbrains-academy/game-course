@@ -7,7 +7,7 @@
 
 Build a 3D browser game step by step – with the help of an AI coding agent.
 
-In this project-based course, you'll plan, build, and polish a complete game inside WebStorm, using AI coding agents to turn ideas into working code. Follow the story of Tode the Frog, or customize the visuals and make the game your own. No grades – just hands-on building and your creativity.
+In this project-based course, you'll plan, build, and polish a complete game inside IDE, using AI coding agents to turn ideas into working code. Follow the story of Tode the Frog, or customize the visuals and make the game your own. No grades – just hands-on building and your creativity.
 
 ## Want to know more?
 If you have questions about the course or the tasks, or if you find any errors, feel free to ask questions and participate 
